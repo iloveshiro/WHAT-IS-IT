@@ -1,0 +1,108 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "swamp lvl 2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/versi/IS THIS AN OUTCORE/sprites/other things/Green Portal Sprite Sheet.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "D:/versi/IS THIS AN OUTCORE/sprites/other things/coins/MonedaR.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "swamp lvl 1.tmx": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 428.5,
+                "y": 156.5
+            }
+        },
+        "swamp lvl 2.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 395.5,
+                "y": 249.5
+            }
+        },
+        "swamp lvl 3.tmx": {
+            "scale": 1.5318749999999999,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 480.13055895552844,
+                "y": 256.22195022439826
+            }
+        },
+        "swamp map 1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 505.3333333333333,
+                "y": 256.99999999999994
+            }
+        },
+        "swamp_tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "test.tmx": {
+            "scale": 0.9618749999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 447.56335282651077,
+                "y": 137.75178687459396
+            }
+        },
+        "u need to redraw it(into test mb).tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 426.5,
+                "y": 134.5
+            }
+        },
+        "u need to redraw it.tmx": {
+            "scale": 1.70703125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.3661327231121,
+                "y": 256.2929061784897
+            }
+        }
+    },
+    "last.externalTilesetPath": "D:/versi/IS THIS AN OUTCORE/maps/swamp",
+    "last.imagePath": "D:/versi/IS THIS AN OUTCORE/maps/swamp/1 Tiles",
+    "map.height": 16,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 30,
+    "openFiles": [
+        "swamp_tiles.tsx",
+        "swamp lvl 1.tmx",
+        "swamp lvl 2.tmx"
+    ],
+    "project": "swamp_map.tiled-project",
+    "recentFiles": [
+        "swamp_tiles.tsx",
+        "swamp lvl 1.tmx",
+        "swamp lvl 2.tmx",
+        "test.tmx",
+        "u need to redraw it(into test mb).tmx",
+        "u need to redraw it.tmx",
+        "swamp map 1.tmx"
+    ],
+    "tileset.lastUsedFilter": "Файлы набора тайлов Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}

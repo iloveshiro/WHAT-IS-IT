@@ -1,0 +1,14 @@
+{
+  "enemies": [
+    {
+    "name": "Mochi",
+    "start": [7, 2],
+    "end": [14, 2]
+    },
+    {
+    "name": "Pumpkin",
+    "start": [2, 14],
+    "end": [10, 14]
+    }
+  ]
+}
